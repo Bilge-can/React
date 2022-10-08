@@ -1,5 +1,4 @@
-var slugify = require("slugify");
+import {topla} from "./my-module.js"
 
-const title = require("slugify");
+console.log(topla(2, 7));
 
-console.log(title);
